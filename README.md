@@ -90,7 +90,7 @@ Flow of emergency creation, using an example of 16 zones given the population of
 ![img_7.png](images/img_7.png)
 
 Flow of emergency resolution:
-!<img width="278" alt="image" src="https://github.com/user-attachments/assets/d275c337-1e89-4512-9af8-43f5658a5fd6">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/d275c337-1e89-4512-9af8-43f5658a5fd6">
 
 
 An example of emergency being responded to by teams from an emergency unit using the optimal path:
